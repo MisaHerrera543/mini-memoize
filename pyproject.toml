@@ -1,6 +1,6 @@
 [project]
 name = "mini-memoize"
-version = "0.1.0"
+version = "0.1.1"
 description = "Caches function results by a custom key with an LRU size limit."
 requires-python = ">=3.10"
 dependencies = []
